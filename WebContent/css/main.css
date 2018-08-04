@@ -1,0 +1,186 @@
+@CHARSET "UTF-8";
+
+#containt {
+	height: 860px;
+	width: 994px;
+	margin: 0 auto;
+	border: 1px solid #000000;
+}
+
+#top {
+	height: 150px;
+	width: 975px;
+	margin-top: 8px;
+	margin-left: 9px;
+	border: 1px solid #000000;
+	background: #003366;
+}
+
+#top_left {
+	height: 68px;
+	width: 150px;
+	margin-top: 38px;
+	float: left;
+}
+
+#top_right {
+	height: 69px;
+	width: 422px;
+	margin-top: 38px;
+	float: left;
+}
+
+#title {
+	height: 40px;
+	width: 977px;
+	margin-top: 0px;
+	margin-left: 9px;
+}
+
+#title_left {
+	height: 40px;
+	width: 240px;
+	float: left;
+	border: 1px solid #000000;
+	border-right: none;
+	background: #999999;
+}
+
+.title_left {
+	height: 40px;
+	width: 240px;
+	margin-top: 128px;
+	float: left;
+	border: 1px solid #000000;
+	border-right: none;
+	background: #999999;
+}
+
+.title1 {
+	height: 20px;
+	width: 60px;
+	margin: 0 auto;
+	margin-top: 8px;
+}
+
+.title2 {
+	height: 20px;
+	width: 160px;
+	margin: 0 auto;
+	margin-top: 108px;
+	float: right;
+}
+
+#title_right {
+	height: 40px;
+	width: 734px;
+	float: left;
+	border: 1px solid #000000;
+	background: #e1e1e1;
+}
+
+#news {
+	height: 170px;
+	width: 240px;
+	margin-left: 9px;
+	border: 1px solid #000000;
+}
+
+.news {
+	height: 127px;
+	width: 240px;
+	margin-left: -2px;
+	margin-top: -129px;
+	border: 1px solid #000000;
+}
+#title1 {
+	height: 20px;
+	width: 60px;
+	margin: 0 auto;
+	margin-top: 8px;
+}
+
+#title2 {
+	height: 20px;
+	width: 100px;
+	margin-left: 9px;
+	float: left;
+	margin-top: 8px;
+	font-size:16px;
+	color:#ff9900;
+}
+
+#title3 {
+	height: 20px;
+	width: 280px;
+	margin-right: 0px;
+	float: right;
+	margin-top: 8px;
+}
+
+#content {
+	height: 380px;
+	width: 977px;
+	margin-top: 0px;
+	margin-left: 9px;
+}
+
+#content_left {
+	height: 426px;
+	width: 240px;
+	float: left;
+	margin-top: 0px;
+	border: 1px solid #000000;
+	border-right: none;
+	background: #e1e1e1;
+}
+
+#content_right {
+	height: 596px;
+	width: 734px;
+	float: left;
+	margin-top: -170px;
+	border: 1px solid #000000;
+}
+
+#bottom {
+	height: 50px;
+	width: 975px;
+	margin-top: 48px;
+	margin-left: 9px;
+	border: 1px solid #000000;
+	background: #999999;
+}
+
+#bottom_center {
+	height: 20px;
+	width: 276px;
+	margin: 0 auto;
+	margin-top: 7px;
+}
+
+.menu {
+	height: 20px;
+	width: 140px;
+	margin: 0 auto;
+	margin-top: 26px;
+}
+
+.menuimg {
+	height: 15px;
+	width: 5px;
+	margin-left: 0px;
+	margin-top: 2px;
+}
+
+.menufont {
+	height: 20px;
+	width: 110px;
+	margin-left: 20px;
+	margin-top: -20px;
+}
+
+.menufont a {
+	text-decoration:none;
+}
+ 
